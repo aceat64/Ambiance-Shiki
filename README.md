@@ -12,14 +12,14 @@ Colors
 	f07746		f7a145		Orange	Human
 	f07746		f08290		Pink	Illustrious
 	f07746		ad7fa8		Purple	Noble
-	f07746		de4e4e		Red	Wine
+	f07746		de4e4e		Red		Wine
 	f07746		97bf60		Green	Wise
 
 
 Install
 -------
 
-To install, just drop this theme into ~/.themes and use your favorite tweak tool to enable it. I like to use [Ubuntu Tweak](http://ubuntu-tweak.com/).
+To install, just drop the folder of the theme you want into ~/.themes and use your favorite tweak tool to enable it. I like to use [Ubuntu Tweak](http://ubuntu-tweak.com/).
 
 
 Links
